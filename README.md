@@ -24,8 +24,8 @@ Using html and css to create a product preview.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/efosu/Product-Preview-Challenge]
+- Live Site URL: [https://efosu.github.io/Product-Preview-Challenge/]
 
 
 
